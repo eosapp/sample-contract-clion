@@ -8,12 +8,12 @@ The sample contract ```currency``` is copied from the [EOS project](), and the s
 
 ### Import the project to CLion
 
-#####Clone the github project:
+##### Clone the github project:
 ```
 git clone https://github.com/eosapp/sample-contract-clion.git
 ```
 
-#####Import to CLion
+##### Import to CLion
 In CLion IDEA, select File ➜ Import Project... to open the project.
 
 After import the project successfully, go to ```CLion ➜ Preferences ➜ Build, Execution, Deployment ➜ CMake``` and make following changes:
@@ -41,7 +41,7 @@ set(EOSIO_INSTALL_DIR $ENV{HOME}/eos/build/install)
 set(ABIGEN ${EOSIO_INSTALL_DIR}/bin/abi_gen)
 ```
 
-####Build in CLion
+#### Build in CLion
 Select ```Run ➜ Build```, you should see below in CLion console:
 
 ```
@@ -82,7 +82,7 @@ drwxr-xr-x  18 yunbei  staff    576  3 20 19:12 CMakeFiles
 drwxr-xr-x  10 yunbei  staff    320  3 20 19:15 ..
 ```
 
-##Here you go!
+## Here you go!
 
 
 
