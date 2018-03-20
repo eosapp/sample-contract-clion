@@ -66,20 +66,20 @@ And you can see all built files are in ```cmake-build-release``` folder:
 ```
 cmake-build-release >  ls -alrt
 total 296
--rw-r--r--   1 yunbei  staff   2824  3 20 19:12 currency.hpp
--rw-r--r--   1 yunbei  staff  21386  3 20 19:12 CMakeCache.txt
--rw-r--r--   1 yunbei  staff   4793  3 20 19:12 Makefile
--rw-r--r--   1 yunbei  staff   1263  3 20 19:12 cmake_install.cmake
--rw-r--r--   1 yunbei  staff   4572  3 20 19:12 hello.cbp
--rw-r--r--   1 yunbei  staff   6720  3 20 19:12 currency.cpp.bc
--rw-r--r--   1 yunbei  staff   6668  3 20 19:12 currency.bc
--rw-r--r--   1 yunbei  staff  20712  3 20 19:12 currency.s
--rw-r--r--   1 yunbei  staff  25246  3 20 19:12 currency.wast
--rw-r--r--   1 yunbei  staff  25292  3 20 19:12 currency.wast.hpp
-drwxr-xr-x  14 yunbei  staff    448  3 20 19:12 .
--rw-r--r--   1 yunbei  staff    751  3 20 19:12 currency.abi
-drwxr-xr-x  18 yunbei  staff    576  3 20 19:12 CMakeFiles
-drwxr-xr-x  10 yunbei  staff    320  3 20 19:15 ..
+-rw-r--r--   1 someone  staff   2824  3 20 19:12 currency.hpp
+-rw-r--r--   1 someone  staff  21386  3 20 19:12 CMakeCache.txt
+-rw-r--r--   1 someone  staff   4793  3 20 19:12 Makefile
+-rw-r--r--   1 someone  staff   1263  3 20 19:12 cmake_install.cmake
+-rw-r--r--   1 someone  staff   4572  3 20 19:12 hello.cbp
+-rw-r--r--   1 someone  staff   6720  3 20 19:12 currency.cpp.bc
+-rw-r--r--   1 someone  staff   6668  3 20 19:12 currency.bc
+-rw-r--r--   1 someone  staff  20712  3 20 19:12 currency.s
+-rw-r--r--   1 someone  staff  25246  3 20 19:12 currency.wast
+-rw-r--r--   1 someone  staff  25292  3 20 19:12 currency.wast.hpp
+drwxr-xr-x  14 someone  staff    448  3 20 19:12 .
+-rw-r--r--   1 someone  staff    751  3 20 19:12 currency.abi
+drwxr-xr-x  18 someone  staff    576  3 20 19:12 CMakeFiles
+drwxr-xr-x  10 someone  staff    320  3 20 19:15 ..
 ```
 
 ## Here you go!
