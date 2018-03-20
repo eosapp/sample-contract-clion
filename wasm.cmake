@@ -1,5 +1,6 @@
 set(WASM_TOOLCHAIN FALSE)
 set(BINARYEN_ROOT /usr/local/binaryen)
+set(WASM_LLVM_CONFIG /usr/local/wasm/bin/llvm-config)
 set(ABIGEN $ENV{HOME}/eos/build/install/bin/abi_gen)
 
 if(NOT DEFINED WASM_LLVM_CONFIG)
